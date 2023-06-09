@@ -1,4 +1,4 @@
-# My VSCODE configuration
+# vscode-config
 
 ## Settings
 You can find my settings.json file [here](https://github.com/richardtdavid/vscode-config/blob/main/settings.json)
