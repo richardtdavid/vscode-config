@@ -5,7 +5,7 @@
   "editor.matchBrackets": "never",
   "editor.hideCursorInOverviewRuler": true,
   "editor.overviewRulerBorder": false,
-  "editor.glyphMargin": false,
+  "editor.glyphMargin": true,
   "editor.tokenColorCustomizations": {
     "comments": "#2ea542",
   },
